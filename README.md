@@ -69,7 +69,10 @@ Este projeto é desenvolvido para fins educacionais e está disponível sob lice
 | [GitHub](https://github.com/EuLarissaGarcia) | [GitHub](https://github.com/Amanyti) |
 | [LinkedIn](https://www.linkedin.com/in/eularissagarcia) | [LinkedIn](https://www.linkedin.com/in/amanda-errera-de-queiroz/) |
 
+
+#
 **Versão:** 1.0  
 **Compatibilidade:** Android 5.0+ (API 21+)  
 **Linguagem:** Java  
 **IDE Recomendada:** Android Studio
+#
