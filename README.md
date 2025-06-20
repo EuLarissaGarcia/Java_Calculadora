@@ -23,7 +23,6 @@ Aplicativo Android de calculadora com sistema de autenticação. O projeto imple
 - Senha: `admin`
 
 ### Calculadora (SecondActivity)
-```
 - **Operações básicas**: adição (+), subtração (-), multiplicação (×), divisão (÷)
 - **Operação de porcentagem** (%)
 - **Display digital** com formatação automática
@@ -32,14 +31,15 @@ Aplicativo Android de calculadora com sistema de autenticação. O projeto imple
 - **Função Clear (C)** para limpar completamente
 - **Função Delete (DEL)** para apagar último dígito
 - **Botão de saída** para retornar à tela principal
-```
 
 
 ## Tecnologias Utilizadas
+```
 - Android SDK
 - Java como linguagem principal
 - ConstraintLayout para layouts responsivos
 - Material Design para componentes de UI
+```
 
 ## Estrutura do Projeto
 
