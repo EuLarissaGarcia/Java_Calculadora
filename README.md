@@ -63,12 +63,11 @@ Este projeto é desenvolvido para fins educacionais e está disponível sob lice
 
 ## Autores
 
-| **Larissa Garcia**                                     | **  Amanda Errera**                                                             |  
-|--------------------------------------------------------|----------------------------------------------------------------------|  
-|![preview profile.](https://imgur.com/HC7cm66.png)
-[GitHub](https://github.com/EuLarissaGarcia)
- [@LinkedIn](https://www.linkedin.com/in/eularissagarcia)|![preview profile.](https://imgur.com/KXXBWuN.png) [GitHub](https://github.com/Amanyti)
- [@LinkedIn](https://www.linkedin.com/in/amanda-errera-de-queiroz/)                                                             |  
+| **Larissa Garcia** | **Amanda Errera** |
+|:------------------:|:-----------------:|
+| ![preview profile.](https://imgur.com/HC7cm66.png) | ![preview profile.](https://imgur.com/KXXBWuN.png) |
+| [GitHub](https://github.com/EuLarissaGarcia) | [GitHub](https://github.com/Amanyti) |
+| [LinkedIn](https://www.linkedin.com/in/eularissagarcia) | [LinkedIn](https://www.linkedin.com/in/amanda-errera-de-queiroz/) |
 
 **Versão:** 1.0  
 **Compatibilidade:** Android 5.0+ (API 21+)  
